@@ -1,4 +1,4 @@
-PhysioMate - AI-Powered Fitness Tracker and Coach
+<h2>PhysioMate - AI-Powered Fitness Tracker and Coach</h2>
 
 PhysioMate is an innovative fitness app that combines artificial intelligence with personalized workout tracking and coaching. It helps users reach their fitness goals with customized workout plans, progress tracking, motivation, and more. Whether you're aiming for strength, endurance, weight loss, or overall well-being, PhysioMate is your smart companion every step of the way.
 
